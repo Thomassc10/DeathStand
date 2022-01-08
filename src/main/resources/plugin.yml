@@ -1,0 +1,9 @@
+name: DeathStand
+version: 1.5.2
+main: me.thomas.deathstand.DeathStand
+api-version: 1.13
+authors: [ Thomas ]
+description: Description
+
+commands:
+  dstand:

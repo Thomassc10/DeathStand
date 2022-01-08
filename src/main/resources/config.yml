@@ -1,0 +1,23 @@
+save-exp: true
+
+stand-name: "&c%player%'s body"
+
+different-body: "&cThis is not your stand."
+
+remove-body: "&cYour stand will be removed in &e%time% &cseconds."
+
+no-experience: "&cThere is no experience left to retrieve!"
+
+remove-time: 120
+
+exp-item:
+  item: 'EXPERIENCE_BOTTLE'
+  name: 'Experience'
+  lore:
+    - '&7Click to receive back your experience.'
+
+key-item:
+  item: 'TRIPWIRE_HOOK'
+  name: 'Key'
+  lore:
+    - '&7Right-Click on your stand to get back your items.'
